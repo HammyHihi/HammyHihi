@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Syahnabil Hammam Sungkar
 - 👀 I’m interested in Technology especially in Artificial Intelligence, Software Engineer, Front End Developer
-- 🌱 I’m currently learning Java, Python
+- 🌱 I’m currently learning Everything
 - 📫 How to reach me @hammy_syahnabil/hammysungkar25@gmail.com
 
 <!---
